@@ -25,8 +25,8 @@ Make sure the following are installed on your system:
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone git@github.com:ashim0429/hr-mcp.git
+cd hr-mcp
 ```
 
 2. **Install MCP dependencies and server**
